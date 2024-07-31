@@ -2,7 +2,7 @@
 
 Meu nome é Suelen Prado
 
-* Estou estudando na Alura.
+* Estou estudando no Alura.
 * Estou me desenvolvendo na linguagem javaScript.
 * Irei compartilhar meus projetos.
 
